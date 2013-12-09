@@ -1,7 +1,7 @@
 """
 Purpose:    List all the map documents under a parent directory, check for broken data links and log the results to a
             logfile saved in the parent directory.
-Author:     Joel McCune (joelmccune@gmail.com)
+Author:     Joel McCune (http://joelmccune.com)
 DOB:        25 Nov 2013
 """
 __author__ = 'Joel McCune ('
